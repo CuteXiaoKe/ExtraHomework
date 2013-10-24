@@ -68,7 +68,7 @@ int main()
   Cqueue c;
   if(c.isEmpty())
   {
-    cout<<"´Ë¶ÓÁÐÎª¿Õ"<<endl;
+    cout<<"æ­¤é˜Ÿåˆ—ä¸ºç©º"<<endl;
   }
   c.push(1);
   c.push(2);
